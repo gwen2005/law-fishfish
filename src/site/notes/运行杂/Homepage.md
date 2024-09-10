@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/运行杂/Homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"//homepage/","tags":["gardenEntry"]}
 ---
 
 

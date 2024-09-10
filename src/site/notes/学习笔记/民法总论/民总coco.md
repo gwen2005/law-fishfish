@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记/民法总论/民总coco/","tags":["总"]}
+{"dg-publish":true,"permalink":"///coco/","tags":["总"]}
 ---
 
 # 导言
