@@ -1,5 +1,5 @@
 ---
-{"文件类别":"学习笔记","tags":["总"],"dg-publish":true,"permalink":"/学习笔记/民法总论/民总coco/","dgPassFrontmatter":true}
+{"文件类别":"学习笔记","tags":["总"],"dg-publish":true,"permalink":"/学习笔记/民法总论/民总coco/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # 导言
