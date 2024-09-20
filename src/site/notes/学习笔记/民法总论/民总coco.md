@@ -1,5 +1,5 @@
 ---
-{"文件类别":"学习笔记","tags":["总和"],"dg-publish":true,"permalink":"/学习笔记/民法总论/民总coco/","dgPassFrontmatter":true}
+{"文件类别":"学习笔记","tags":["总和"],"dg-publish":true,"permalink":"/学习笔记/民法总论/民总coco/","dgPassFrontmatter":true,"created":"2024-06-28T14:29:10.587+08:00","updated":"2024-09-19T14:28:50.280+08:00"}
 ---
 
 # 导言
@@ -64,4 +64,4 @@
 - [[学习笔记/知识点cheese/法人\|法人]]
 - [[学习笔记/知识点cheese/非法人组织\|非法人组织]]
 # 民事权利
-# [[学习笔记/知识点cheese/法律行为\|法律行为]]
+# [[学习笔记/知识点cheese/民事法律行为\|民事法律行为]]
