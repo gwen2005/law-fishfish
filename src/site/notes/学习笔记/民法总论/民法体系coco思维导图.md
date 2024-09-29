@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记/民法总论/民法体系coco思维导图/","dgPassFrontmatter":true,"created":"2024-09-28T17:25:06.191+08:00","updated":"2024-09-28T23:13:16.847+08:00"}
+{"dg-publish":true,"permalink":"/学习笔记/民法总论/民法体系coco思维导图/","dgPassFrontmatter":true,"created":"2024-09-28T17:25:06.191+08:00","updated":"2024-09-28T23:21:06.370+08:00"}
 ---
 
 [导图1.mmap (gwen2005.github.io)](https://gwen2005.github.io/lawmind/)
