@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记/物权法学/物权ymb/","dgPassFrontmatter":true,"created":"2024-09-20T15:35:41.236+08:00","updated":"2024-09-28T18:20:04.134+08:00"}
+{"dg-publish":true,"permalink":"/学习笔记/物权法学/物权ymb/","dgPassFrontmatter":true,"created":"2024-09-20T15:35:41.236+08:00","updated":"2024-10-02T21:33:33.716+08:00"}
 ---
 
 - 由于资源的有限性，因此要确定物的归属
@@ -22,14 +22,14 @@
 ·财产价值是物权法的重点，物还有精神价值等>> [[法条/法条细则/中华人民共和国民法典#^t1183\|民第 1183 条Ⅱ]]
 - 强制法
 	- 相对比债法，意思自治原则体现较弱，但仍是物权法的精神底座
-	·债法只在当事人间作用；物权法拘束权利人以外的所有人，需要考虑交易成本和效率（对世性、绝对性）--- [[物权法定原则\|物权法定原则]]
+	·债法只在当事人间作用；物权法拘束权利人以外的所有人，需要考虑交易成本和效率（对世性、绝对性）--- [[学习笔记/知识点cheese/物权法定原则\|物权法定原则]]
 # 客体
 ## [[学习笔记/知识点cheese/客体特定原则\|客体特定原则]]
 
 ## 物的涵义
 ### 物的范围
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="////#t0115" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="////#t115" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -47,12 +47,8 @@
 	- 人的身体外的：人的身体非物（除部分例外）
 具体要求：[[学习笔记/知识点cheese/物#物的法律属性\|物#物的法律属性]]
 
-# 物的种类
-一个物的组成部分：[[学习笔记/知识点cheese/物#^f2cdf4\|重要成分和非重要成分]]
-[[学习笔记/知识点cheese/物#^34ada5\|主物和从物]]
-[[学习笔记/知识点cheese/物#^f13ddb\|原物与孳息]]
-[[学习笔记/知识点cheese/物#^f56553\|单一物、合成物、集合物]]
-[[学习笔记/知识点cheese/物#^d05445\|动产与不动产]]
+# [[学习笔记/知识点cheese/物#物的分类\|物#物的分类]]
+
 # 物权的分类与效力
 ![1726829724220.png](/img/user/%E8%BF%90%E8%A1%8C%E6%9D%82/%E9%99%84%E4%BB%B6/1726829724220.png)
 - 支配与绝对的正当建立在归属的确定上
