@@ -1,10 +1,12 @@
-<hr class="content">
-<div class="content" id="waline"></div>
-<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css"/>
-<script type="module">
-import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
-init({
-el: '#waline',
-serverURL: 'https://comment.zytomorrow.top',
-});
-</script>
+<!-- twikoo -->
+{{- if .Site.Params.twikoo.enable}}
+{{- if not .Site.IsServer }}
+<div class="pagination__title">
+  <span class="pagination__title-h">欢迎评论</span>
+  <hr />
+</div>
+  <div id="tcomment"></div>
+  <script src="/twikoo1629.js"></script>
+  <script>twikoo.init({ envId: 'https://tk.edui.fun/', el: '#tcomment' })</script>
+  {{- end }}
+{{- end }}
