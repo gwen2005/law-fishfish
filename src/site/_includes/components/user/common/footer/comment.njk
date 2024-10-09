@@ -1,12 +1,16 @@
-<!-- twikoo -->
-{{- if .Site.Params.twikoo.enable}}
-{{- if not .Site.IsServer }}
-<div class="pagination__title">
-  <span class="pagination__title-h">欢迎评论</span>
-  <hr />
-</div>
-  <div id="tcomment"></div>
-  <script src="/twikoo1629.js"></script>
-  <script>twikoo.init({ envId: 'https://tk.edui.fun/', el: '#tcomment' })</script>
-  {{- end }}
-{{- end }}
+<script src="https://giscus.app/client.js"
+        data-repo="gwen2005/law-fishfish"
+        data-repo-id="R_kgDOMvoNzg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOMvoNzs4CjMIo"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
