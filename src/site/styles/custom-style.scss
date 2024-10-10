@@ -4,6 +4,13 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
     //  background-color: white;
+    //@font-face {
+    font-family: “华文新宋”;
+    src: url(“src/site/_includes/components/user/fonts/华文新宋.ttf”) format(“truetype”);
+//}
+    //body {
+  font-family: ‘华文新宋’, Arial, sans-serif;
+//}
     //  .content {
     //   font-size: 14px;
     //  }
