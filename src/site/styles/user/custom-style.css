@@ -1,5 +1,5 @@
-:root{--red:#42b983;--red-deep:#42b983;--beige:#e6dbcc;}
-.theme-light{background:rgba(239,237,230,.6);}
+:root{--red:#42b983;--red-deep:#42b983;--beige:#e6dbcc;--background-color: #ffffff;}
+.theme-light{background:rgba(255, 255, 255, 1);}
 body,html{font-weight:400;font-style:normal;font-size:1rem!important;font-family:"LXGW WenKai Screen",'Microsoft Yahei', 'PingFang SC', 'Avenir', 'Segoe UI', 'Hiragino Sans GB', STHeiti, 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif !important;}
 p.grid,p.grid-4{display:grid;grid-gap:7px;grid-template-columns:repeat(auto-fill,32%);}
 p.grid-4{grid-template-columns:repeat(auto-fill,24%);}
@@ -19,7 +19,7 @@ body nav.filetree-sidebar h1:before{display:block;width:100%;height:3em;backgrou
 body nav.toc ol{padding-left:10px;border-left:2px solid var(--background-secondary);list-style:none;}
 body nav.toc>ol{border-left:none;}
 body header{margin-bottom:1.8em;}
-body .content{max-width:780px;}
+body .content{max-width:980px;}
 body .cm-s-obsidian{line-height:1.8;}
 body .cm-s-obsidian .table-wrapper{overflow-x:scroll;}
 body .cm-s-obsidian picture{height:auto;max-width:100%;}
