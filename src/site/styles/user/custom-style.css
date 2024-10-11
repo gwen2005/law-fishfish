@@ -1,10 +1,6 @@
 :root{--red:#42b983;--red-deep:#42b983;--beige:#e6dbcc;--background-color: #ffffff;}
 .theme-light{background:rgba(255, 255, 255, 1);}
-@import url('https://static.zeoseven.com/cn/309/main/result.css');
-html {
-    font-family: "KingHwa_OldSong";
-    font-weight: normal;
-}
+body,html{font-weight:400;font-style:normal;font-size:2rem!important;font-family:"LXGW WenKai Screen",'Microsoft Yahei', 'PingFang SC', 'Avenir', 'Segoe UI', 'Hiragino Sans GB', STHeiti, 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif !important;}
 p.grid,p.grid-4{display:grid;grid-gap:7px;grid-template-columns:repeat(auto-fill,32%);}
 p.grid-4{grid-template-columns:repeat(auto-fill,24%);}
 p.grid img,p.grid-4 img{}
