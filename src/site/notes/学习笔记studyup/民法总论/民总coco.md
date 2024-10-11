@@ -1,7 +1,8 @@
 ---
-{"文件类别":"学习笔记","tags":["总和"],"dg-publish":true,"permalink":"/学习笔记studyup/民法总论/民总coco/","dgPassFrontmatter":true,"created":"2024-06-28T14:29:10.587+08:00","updated":"2024-09-30T11:25:20.968+08:00"}
+{"文件类别":"学习笔记","tags":["总和"],"dg-publish":true,"permalink":"/学习笔记studyup/民法总论/民总coco/","dgPassFrontmatter":true,"created":"2024-06-28T14:29:10.587+08:00","updated":"2024-10-11T15:10:34.336+08:00"}
 ---
 
+[[学习笔记studyup/民法总论/民法体系coco思维导图\|民法体系coco思维导图]]
 # 导言
 案例研习：[[案例分析case/课堂案例/煎饼摊子\|煎饼摊子]]
 [[学习笔记studyup/知识点cheese/民法案例分析一般步骤\|民法案例分析一般步骤]]

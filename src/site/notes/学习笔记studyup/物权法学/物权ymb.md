@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记studyup/物权法学/物权ymb/","dgPassFrontmatter":true,"created":"2024-09-20T15:35:41.236+08:00","updated":"2024-10-05T20:25:22.944+08:00"}
+{"dg-publish":true,"permalink":"/学习笔记studyup/物权法学/物权ymb/","dgPassFrontmatter":true,"created":"2024-09-20T15:35:41.236+08:00","updated":"2024-10-10T08:37:18.368+08:00"}
 ---
 
 - 由于资源的有限性，因此要确定物的归属
@@ -64,8 +64,8 @@
 
 ## 物权的分类
 ### [[学习笔记studyup/知识点cheese/物权法定原则\|物权法定原则]]
-### [[学习笔记studyup/物权法学/物权法学库大#物权类别\|物权法学库大#物权类别]]
-## [[学习笔记studyup/物权法学/物权法学库大#物权的效力\|物权法学库大#物权的效力]]
+### [[学习笔记studyup/知识点cheese/物权#物权类别\|物权#物权类别]]
+## [[学习笔记studyup/知识点cheese/物权#效力\|物权#效力]]
 ## 与债权的对比
 > [!col]
 > ![Pasted image 20241005202135.png](/img/user/%E8%BF%90%E8%A1%8C%E6%9D%82/%E9%99%84%E4%BB%B6/Pasted%20image%2020241005202135.png)
