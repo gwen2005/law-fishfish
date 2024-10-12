@@ -1,7 +1,7 @@
 @import url('https://static.zeoseven.com/cn/309/main/result.css');
-:root{--red:#42b983;--red-deep:#42b983;--beige:#e6dbcc;--background-color: #ffffff;}
+:root{--red:#42b983;--red-deep:#2F4F4F;--beige:#e6dbcc;--background-color: #ffffff;}
 .theme-light{background:rgba(255, 255, 255, 1);}
-body,html{font-weight:400;font-style:normal;font-size:1rem!important;font-family:"KingHwa_OldSong",sans-serif !important;}
+body,html{font-weight:400;font-style:normal;font-size:1rem!important;font-family:"KingHwa_OldSong",sans-serif !important; line-height: 1.4;}
 p.grid,p.grid-4{display:grid;grid-gap:7px;grid-template-columns:repeat(auto-fill,32%);}
 p.grid-4{grid-template-columns:repeat(auto-fill,24%);}
 p.grid img,p.grid-4 img{}
@@ -23,7 +23,7 @@ body nav.toc ol{padding-left:10px;border-left:2px solid var(--background-seconda
 body nav.toc>ol{border-left:none;}
 body header{margin-bottom:1.8em;}
 body .content{max-width:1200px; margin-left: 0;}
-body .cm-s-obsidian{line-height:1.8;}
+body .cm-s-obsidian{line-height:1.4;}
 body .cm-s-obsidian .table-wrapper{overflow-x:scroll;}
 body .cm-s-obsidian picture{height:auto;max-width:100%;}
 body .cm-s-obsidian picture img{width:100%;height:auto;}
