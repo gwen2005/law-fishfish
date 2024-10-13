@@ -2,6 +2,17 @@
 permalink: /searchIndex.json
 eleventyExcludeFromCollections: true
 ---
+// 使用 prompt 要求用户输入密码
+const password = prompt("Please enter the password:");
+
+// 检查密码是否正确
+if (password !== "886586") {
+    document.body.innerHTML = "Access Denied.";
+} else {
+    // 如果密码正确，则继续加载应用
+    document.body.style.display = "block";
+}
+
 [{% for post in collections.note %}
 {
 		"title": {% if post.data.title %}{{post.data.title | jsonify | safe }}{% else %}{{post.fileSlug | jsonify | safe }}{% endif %},
