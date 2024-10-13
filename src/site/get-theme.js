@@ -1,3 +1,12 @@
+<script type="text/javascript">
+  var password = prompt("请输入密码:");
+  if (password !== "886586") {
+    document.body.innerHTML = "Access Denied.";
+  } else {
+    document.body.style.display = "block";
+  }
+</script>
+
 require("dotenv").config();
 const axios = require("axios");
 const fs = require("fs");
