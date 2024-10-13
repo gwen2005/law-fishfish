@@ -1,13 +1,4 @@
-// 使用 prompt 要求用户输入密码
-const password = prompt("请输入密码:");
 
-// 检查密码是否正确
-if (password !== "886586") {
-    document.body.innerHTML = "Access Denied.";
-} else {
-    // 如果密码正确，则继续加载应用
-    document.body.style.display = "block";
-}
 
 require("dotenv").config();
 const axios = require("axios");
