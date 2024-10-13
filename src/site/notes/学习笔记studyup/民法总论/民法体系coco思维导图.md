@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记studyup/民法总论/民法体系coco思维导图/","dgPassFrontmatter":true,"created":"2024-09-28T17:25:06.191+08:00","updated":"2024-10-13T10:51:33.408+08:00"}
+{"dg-publish":true,"permalink":"/学习笔记studyup/民法总论/民法体系coco思维导图/","dgPassFrontmatter":true,"created":"2024-09-28T17:25:06.191+08:00","updated":"2024-10-13T10:59:15.933+08:00"}
 ---
 
 >[! info] 说明：
@@ -7,10 +7,10 @@
 >如果想查看我上传到网页的交互图示版本（即和一般思维导图软件展现的效果🧠）
 >一般需要使用梯子🪜加速器；使用普通国内网络的访问速度较慢，电信尤其慢🥀
 >但经测试，学校的公网也可以直接访问😉
->图示版网站链接>>>> [思维导图交互版](https://gwen2005.github.io/lawmind/)
-
->[! tip]- 导图网页 
-><iframe src="https://gwen2005.github.io/lawmind/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+>图示版网站链接访问>>>> [思维导图交互版](https://gwen2005.github.io/lawmind/)
+>或点击下方导图网页边箭头
+>>[! tip]- 导图网页 
+>><iframe src="https://gwen2005.github.io/lawmind/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 # 民法体系
 
