@@ -4,22 +4,31 @@
   <meta charset="UTF-8">  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
   <title>yanziyu.site</title>  
+  <style>  
+    /* 预先定义一个类，用于禁用页面元素 */  
+    .disabled {  
+      pointer-events: none;  
+      opacity: 0.6; /* 可选：降低元素透明度，表示它们被禁用了 */  
+    }  
+  </style>  
 </head>  
 <body>  
   <script type="text/javascript">  
     var password = prompt("请输入密码:");  
     if (password !== "886586") {  
-      // 模拟404页面  
+      // 模拟404页面并禁用页面其他功能  
       document.body.innerHTML = '<h1>404 Not Found</h1><p>The requested URL was not found on this server.</p>';  
-      // 可选：更改页面标题以反映404状态  
+      // 更改页面标题以反映404状态  
       document.title = '404 Not Found';  
-      // 可选：禁用页面的其他功能（如链接、按钮等）  
-      // document.body.style.pointerEvents = 'none'; // 禁止鼠标点击  
+      // 禁用页面的其他功能  
+      document.body.classList.add('disabled');  
     } else {  
-      // 密码正确时的处理逻辑（当前代码中这部分是多余的，因为body默认就是block显示）  
-      // document.body.style.display = "block";  
-      // 您可以在这里添加密码正确后的其他操作  
+      // 密码正确时的处理逻辑（这里可以添加您需要的操作）  
+      // ...  
     }  
   </script>  
+  <!-- 页面的其他内容（如果有的话） -->  
+  <!-- <a href="#">链接</a> -->  
+  <!-- <button>按钮</button> -->  
 </body>  
 </html>
