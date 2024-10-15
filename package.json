@@ -1,4 +1,4 @@
-npm install next@latest
+
 {
     "name": "web",
     "version": "1.0.0",
@@ -26,6 +26,7 @@ npm install next@latest
         "sass": "^1.49.9"
     },
     "dependencies": {
+        "next": "^13.0.0",
         "@11ty/eleventy-img": "^4.0.2",
         "@sindresorhus/slugify": "^1.1.0",
         "axios": "^1.2.2",
