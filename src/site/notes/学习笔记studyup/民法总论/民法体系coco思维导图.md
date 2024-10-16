@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/学习笔记studyup/民法总论/民法体系coco思维导图/","dgPassFrontmatter":true,"created":"2024-09-28T17:25:06.191+08:00","updated":"2024-10-13T10:59:15.933+08:00"}
+{"dg-publish":true,"permalink":"/学习笔记studyup/民法总论/民法体系coco思维导图/","dgPassFrontmatter":true,"created":"2024-09-28T17:25:06.191+08:00","updated":"2024-10-14T22:00:56.993+08:00"}
 ---
 
 >[! info] 说明：
@@ -823,6 +823,8 @@
 				- 4. 借款合同
 
 				- 5. 保证合同
+					- 连带保证
+					- 一般保证
 
 				  保证人和出借人签
 				- 6. 租赁合同
